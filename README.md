@@ -8,9 +8,11 @@ Steps to Run the Project
 Step 1: Download the Raw Data File
 
 Download the raw datasets from the repository.
+
 Step 2: Download the Program File
 
 Download the SAS program file (e.g., program file.sas) from the repository.
+
 Step 3: Change the Library Path
 
 Open the SAS program file.
@@ -23,9 +25,11 @@ Step 4: Update the Raw Data Import Path
 
 In the program file, locate the PROC IMPORT section for the raw data file.
 Change the path to match the location of the downloaded raw data file.
+
 Step 5: Run the Program
 
 Execute the program in SAS to perform the analysis and generate the insights.
+
 Step 6: View the Results
 
 Review the generated ODS report for insights.
